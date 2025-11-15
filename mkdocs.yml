@@ -1,0 +1,7 @@
+site_name: Engineering Guidelines
+nav:
+  - Home: index.md
+  - Onboarding: onboarding.md
+  - Guidelines: engineering-guidelines.md
+  - Architecture: architecture-principles.md
+docs_dir: docs
