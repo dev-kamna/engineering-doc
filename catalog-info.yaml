@@ -2,8 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: engineering-guidelines
-  description: General engineering practices and onboarding docs
+  description: "Engineering Guidelines Documentation"
   annotations:
-    backstage.io/techdocs-ref: dir:.   # tells TechDocs to build from this directory
+    backstage.io/techdocs-ref: dir:.
 spec:
+  type: documentation
   owner: platform-team
+  lifecycle: experimental
