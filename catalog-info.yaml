@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Documentation
+kind: Component
 metadata:
   name: engineering-guidelines
   description: General engineering practices and onboarding docs
